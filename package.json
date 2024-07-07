@@ -1,0 +1,17 @@
+{
+  "name": "axios-learn",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^13.17.1",
+    "os": "^0.1.2"
+  }
+}
